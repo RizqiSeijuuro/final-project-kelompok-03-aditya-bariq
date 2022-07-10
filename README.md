@@ -1,6 +1,6 @@
 # Final Project Kelompok 03
 Anggota Kelompok:
-- Nadia Rizky hairunnisa
+- Nadia Rizky Hairunnisa
 - Muhammad Rizqiansyah
 
 Nama Mentor: Aditya Bariq 
